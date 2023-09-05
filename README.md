@@ -1,0 +1,2 @@
+# Prolog
+[Tarefa] USANDO PROLOG NA LÓGICA DE PREDICADOS
